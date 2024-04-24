@@ -1,0 +1,45 @@
+.clear {
+    margin: 5% auto 0;
+    width: 1320px;
+    height: 260px;
+    padding: 48px;
+    background: black;
+    border: 1px solid white;
+    border-radius: 10px;
+    color: white;
+}
+
+.clear img {
+    width: 300px;
+    height: 200px;
+}
+
+.text {
+    display: flex;
+}
+
+.info {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+}
+
+.info h3 {
+    font-size: 26px;
+    font-weight: 300;
+    margin: 0 0 20px 0;
+}
+
+.button-right {
+    background-color: #d90d42;
+    border: none;
+    padding: 15px 20px;
+    font-weight: 600;
+    font-size: 15px;
+    position: absolute;
+    margin: 200px 0 0;
+}
+
+.image-clear {
+    margin-right: 50px;
+}
